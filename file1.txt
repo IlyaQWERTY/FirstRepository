@@ -5,3 +5,5 @@ How do you do?
 12345
 
 BOOM BOOM BOOM BOOM BOOM BOOM
+
+Good morning! (from branch add-feature1)

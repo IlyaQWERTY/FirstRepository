@@ -3,5 +3,7 @@ Hello world!123
 How do you do?
 
 12345
-Line from user1
-BOOM BOOM BOOM (from branch master)
+
+Line from user2
+BOOM BOOM BOOM BOOM BOOM BOOM
+

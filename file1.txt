@@ -7,3 +7,5 @@ How do you do?
 Line from user2
 NEW FEACH
 Line from user1 - lesson about rebase
+test2
+
